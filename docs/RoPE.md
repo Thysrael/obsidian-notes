@@ -1,3 +1,7 @@
+---
+title: RoPE
+---
+
 # 加性位置编码
 
 这是 "Attention is All You Need" 中提到的方法，有如下表达：
